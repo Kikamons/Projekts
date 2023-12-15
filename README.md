@@ -1,0 +1,2 @@
+# Projekts
+Datorikas projekts
